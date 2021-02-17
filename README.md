@@ -26,7 +26,6 @@
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 
-<!------------------------------------------------------Experience----------------------------------->
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
  <details>
