@@ -63,6 +63,6 @@
 <!----------------------------------------------------Social links------------------------------------------->
 
 [![Twitter Link](https://img.shields.io/twitter/follow/DSSurpure?color=1DA1F2&label=%40DSSurpure&logo=Twitter&style=flat)](https://twitter.com/DSSurpure)
-[![PortFolio Link](https://img.shields.io/badge/Portfolio/surpuredhanashri%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](https://confident-dhanashri.netlify.app/)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/surpuredhanashri%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/dhanashri-surpure-78a034159/)
+[![PortFolio Link](https://img.shields.io/badge/Portfolio/surpuredhanashri%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](https://confident-dhanashri.netlify.app/)
 
