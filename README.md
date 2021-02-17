@@ -24,7 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 
 <!------------------------------------------------------Experience----------------------------------->
@@ -43,6 +42,6 @@
 # Connect with me @
 <!----------------------------------------------------Social links------------------------------------------->
 
-[![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/DSSurpure)
+[![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40DSSurpure&logo=Twitter&style=flat)](https://twitter.com/DSSurpure)
 [![PortFolio Link](https://img.shields.io/badge/Portfolio/surpuredhanashri%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](https://confident-dhanashri.netlify.app/)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/surpuredhanashri%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/dhanashri-surpure-78a034159/)
