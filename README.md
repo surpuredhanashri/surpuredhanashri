@@ -1,13 +1,13 @@
-<!-------------------------------------------------------Hi there, I'm Dhanashri------------------------------>
+<!-------------------------------------------------------Hi there, I'm Sourabh------------------------------>
 <div align="center">
-  <h1>Hi there, I'm <a href="https://twitter.com/s0urabh_k" target="_blank">Dhanashri</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hi there, I'm <a href="https://twitter.com/s0urabh_k" target="_blank">Sourabh</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <!-------------------------------------------------------About----------------------------------------->
-<!-- <div align="center">
-	<h4>💻 ETC Engineer ==> ⭕Full Stack Developer  ==> To Be Data Analyst 📊 </h4>
-        <h4>:earth_asia: Belagavi, India </h4>  
- <div> -->
+<div align="center">
+	<h4>💻 ETC Engineer ==> ⭕Full Stack Developer </h4>
+        <h4>:earth_asia: Ichalkaranji, India </h4>  
+ <div>
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 <br>
 
@@ -23,9 +23,31 @@
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 
+<!------------------------------------------------------Experience----------------------------------->
+<h1>Experience</h1>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Role</b></td>
+      <td><b>Company</b></td>
+      <td><b>Start Date</b></td>
+      <td><b>End Date</b></td>
+      <td><b>Duration</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><b>Intern</b></td>
+      <td><a href="https://sastratechnologies.in/">Sastra Technologies Pvt. Ltd.</a></td>
+      <td>Mar 2020</td>
+      <td>Jun 2020</td>
+      <td>3 Months</td>
+    </tr>
+
+  </tbody>
+</table>
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
  <details>
@@ -44,3 +66,4 @@
 [![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40DSSurpure&logo=Twitter&style=flat)](https://twitter.com/DSSurpure)
 [![PortFolio Link](https://img.shields.io/badge/Portfolio/surpuredhanashri%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](https://confident-dhanashri.netlify.app/)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/surpuredhanashri%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/dhanashri-surpure-78a034159/)
+
