@@ -24,6 +24,8 @@
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MySql](https://img.shields.io/badge/-MySql-yellow?style=flat-square&logo=javascript&logoColor=white)
+
 
 <!------------------------------------------------------Experience----------------------------------->
 <h1>Experience</h1>
