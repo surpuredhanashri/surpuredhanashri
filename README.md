@@ -41,7 +41,7 @@
 	<tr>
 	 <td><b>Full-Time</b></td>
       <td><a href="https://www.mtxb2b.com/s/">MTX Group</a></td>
-      <td>Aug 2021</td>
+      <td>Nov 2021</td>
       <td>Current</td>
       <td> - </td>
     </tr>
