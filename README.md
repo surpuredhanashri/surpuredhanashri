@@ -47,11 +47,19 @@
     </tr>
 	<tr>
 	 <td><b>Intern</b></td>
-      <td><a href="http://www.sastratechnologies.in/">Sastra Technologies Pvt. Ltd.</a></td>
-      <td>Jun 2020</td>
-      <td>Aug 2020</td>
+      <td><a href="https://www.doshaheen.com/">Doshaheen Solution</a></td>
+      <td>Jun 2021</td>
+      <td>Aug 2021</td>
       <td>3 Months</td>
     </tr>
+	  	<tr>
+	 <td><b>Intern</b></td>
+      <td><a href="http://www.sastratechnologies.in/">Sastra Technologies Pvt. Ltd.</a></td>
+      <td>July 2020</td>
+      <td>Sep 2020</td>
+      <td>3 Months</td>
+    </tr>
+
 
   </tbody>
 </table>
