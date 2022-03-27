@@ -39,6 +39,13 @@
   </thead>
   <tbody>
 	<tr>
+	 <td><b>Full-Time</b></td>
+      <td><a href="https://www.mtxb2b.com/s/">MTX Group</a></td>
+      <td>Jun 2022</td>
+      <td>Aug 2021</td>
+      <td>3 Months</td>
+    </tr>
+	<tr>
 	 <td><b>Intern</b></td>
       <td><a href="https://sastratechnologies.in/">Sastra Technologies Pvt. Ltd.</a></td>
       <td>Jun 2020</td>
