@@ -1,4 +1,4 @@
-<!-------------------------------------------------------Hi there, I'm Dhanashri------------------------------>
+s<!-------------------------------------------------------Hi there, I'm Dhanashri------------------------------>
 <div align="center">
   <h1> Hi there, I'm <a href="https://twitter.com/DSSurpure" target="_blank">Dhanashri</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -48,15 +48,15 @@
 	<tr>
 	 <td><b>Intern</b></td>
       <td><a href="https://www.doshaheen.com/">Doshaheen Solution</a></td>
-      <td>Jun 2021</td>
-      <td>Aug 2021</td>
+      <td>Aug 2020</td>
+      <td>Sep 2021</td>
       <td>2 Months</td>
     </tr>
 	  	<tr>
 	 <td><b>Intern</b></td>
       <td><a href="http://www.sastratechnologies.in/">Sastra Technologies Pvt. Ltd.</a></td>
-      <td>July 2020</td>
-      <td>Sep 2020</td>
+      <td>Apr 2020</td>
+      <td>Aug 2020</td>
       <td>3 Months</td>
     </tr>
 
