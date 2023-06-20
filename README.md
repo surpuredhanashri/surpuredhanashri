@@ -1,4 +1,4 @@
-s<!-------------------------------------------------------Hi there, I'm Dhanashri------------------------------>
+<!-------------------------------------------------------Hi there, I'm Dhanashri------------------------------>
 <div align="center">
   <h1> Hi there, I'm <a href="https://twitter.com/DSSurpure" target="_blank">Dhanashri</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -24,48 +24,6 @@ s<!-------------------------------------------------------Hi there, I'm Dhanashr
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![MySql](https://img.shields.io/badge/-MySql-yellow?style=flat-square&logo=javascript&logoColor=white)
 
-
-<!------------------------------------------------------Experience----------------------------------->
-<h1>Experience</h1>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Role</b></td>
-      <td><b>Company</b></td>
-      <td><b>Start Date</b></td>
-      <td><b>End Date</b></td>
-    </tr>
-  </thead>
-  <tbody>
-	  <tr>
-	 <td><b>Full-Time</b></td>
-      <td><a href="https://mavq.com/home">MTX Group</a></td>
-      <td>Jun 2022</td>
-      <td> - </td>
-    </tr>
-	  
-	<tr>
-	 <td><b>Full-Time</b></td>
-      <td><a href="https://www.mtxb2b.com/s/">MTX Group</a></td>
-      <td>Sep 2021</td>
-      <td>Jun 2022</td>
-    </tr>
-	<tr>
-	 <td><b>Intern</b></td>
-      <td><a href="https://www.doshaheen.com/">Doshaheen Solution</a></td>
-      <td>Aug 2020</td>
-      <td>Sep 2021</td>
-    </tr>
-	  	<tr>
-	 <td><b>Intern</b></td>
-      <td><a href="http://www.sastratechnologies.in/">Sastra Technologies Pvt. Ltd.</a></td>
-      <td>Apr 2020</td>
-      <td>Aug 2020</td>
-    </tr>
-
-
-  </tbody>
-</table>
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
  <details>
