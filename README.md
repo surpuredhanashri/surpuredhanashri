@@ -34,30 +34,38 @@ s<!-------------------------------------------------------Hi there, I'm Dhanashr
       <td><b>Company</b></td>
       <td><b>Start Date</b></td>
       <td><b>End Date</b></td>
-      <td><b>Duration</b></td>
+<!--       <td><b>Duration</b></td> -->
     </tr>
   </thead>
   <tbody>
+	  <tr>
+	 <td><b>Full-Time</b></td>
+      <td><a href="https://mavq.com/home">MTX Group</a></td>
+      <td>Jun 2022</td>
+      <td> - </td>
+<!--       <td> - </td> -->
+    </tr>
+	  
 	<tr>
 	 <td><b>Full-Time</b></td>
       <td><a href="https://www.mtxb2b.com/s/">MTX Group</a></td>
       <td>Sep 2021</td>
-      <td>Current</td>
-      <td> - </td>
+      <td>Jun 2022</td>
+<!--       <td> - </td> -->
     </tr>
 	<tr>
 	 <td><b>Intern</b></td>
       <td><a href="https://www.doshaheen.com/">Doshaheen Solution</a></td>
       <td>Aug 2020</td>
       <td>Sep 2021</td>
-      <td>2 Months</td>
+<!--       <td>2 Months</td> -->
     </tr>
 	  	<tr>
 	 <td><b>Intern</b></td>
       <td><a href="http://www.sastratechnologies.in/">Sastra Technologies Pvt. Ltd.</a></td>
       <td>Apr 2020</td>
       <td>Aug 2020</td>
-      <td>3 Months</td>
+<!--       <td>3 Months</td> -->
     </tr>
 
 
